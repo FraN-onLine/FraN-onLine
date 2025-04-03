@@ -5,3 +5,6 @@
 ✅ 10/10 Dump Truck  
 ✅ 11/10 Vibes 😎  
 ❎ No thoughts just "UIIAI"  
+
+❎CPP ➕➕
+✅CCP 🇨🇳
