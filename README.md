@@ -1,4 +1,2 @@
-I forgot the password to this account counter: 22
-
-yoko na brooooo  
-the timeline diverges from here
+I forgot the password to this account counter: 22  
+(kasalanan to ni sir eloi)
