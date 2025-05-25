@@ -29,7 +29,7 @@ I mainly build with [Godot Engine](https://godotengine.org/) and enjoy creating 
 - **Genshin Impact** & **Honkai Star Rail** – immersive worlds & stories
 - **Mobile Legends** – fast-paced competition
 - **Pokémon** – catching, training, and battling since childhood!  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODk4YTM4M2MwY2Y3OTZlNmUzYzA4N2YxYjQxNjJjNDVlZjYzM2M0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZgTR3UQ9XAWDS/giphy.gif" width="80" alt="Pikachu waving" />
+  <img src="https://media1.tenor.com/m/t1mocjFgU14AAAAC/pokemon-furret.gif" width="200" alt="Furret Walk" />
 
 ---
 
