@@ -29,12 +29,14 @@ Fran Online, derived from both my name and the game RAN-ONLINE, my earliest expo
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ My Skillset
 
-- **Godot Engine** (2D & 3D Game Development)
-- Basics of C#, GDScript, and Python
-- Pixel art, game design, and prototyping
-- Always eager to learn more!
+| Area             | Tools & Languages                                                                 |
+|------------------|-----------------------------------------------------------------------------------|
+| 🎮 Game Dev       | **Godot Engine**                                                                |
+| 🔤 Coding         | **GDScript**, Python                                                             |
+| 🎨 Art & Design   | **Pixel Art**, Character Concepts, Writing and Storytelling                                |
+| 🧠 Soft Skills    | Problem-Solving, Iterative Prototyping, Always-Learning Attitude 🧪                |
 
 ---
 
@@ -57,6 +59,20 @@ I’m currently working on my first public game project—stay tuned for updates
 - Enjoys game jams, pixel art, and experimenting with new mechanics
 - Focused on building games that are both fun and meaningful
 - Always open to feedback, collaboration, and making new friends in the dev community
+
+---
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Fran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FraN-onLine&show_icons=true&theme=vue-dark&hide_border=true&icon_color=3ddc84&title_color=3ddc84)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FraN-onLine&layout=compact&theme=vue-dark&hide_border=true&title_color=3ddc84)
+
+</div>
 
 ---
 
