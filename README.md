@@ -47,8 +47,9 @@ Play both Unlit and Raniag! on Itch.io page >:D https://franaxus.itch.io/
 Currently working on 
 - **OFAF: Fall of Isla Renia**: A part of the "Of Fibs and Farces" Series where every character is represented by a form or medium of Obfuscating the Truth, a Game Deeply rooted in the Psychology of Lying and the behaviors and notions that surround each one  
 
-- **The Last Coffee, For You**: Synopsis on my phone lel, basta you're bidding your farewells for the last time, can you correct dumb decisions, miscommunications etc. before its too late?  
-
+- **The Last Coffee, For You**: you are 28 days away from dying, and you decided to go around town and reconnect with friends old and new, former partners, people you strayed from due to miscommunication, and various other personalities, in hopes of leaving with no regrets,  
+at the 29th day you get to see how many people stayed with you in the end..  
+it's time to reflect on the life you lived  
 
 ---
 
