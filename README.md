@@ -42,7 +42,13 @@ Fran Online, derived from both my name and the game RAN-ONLINE, my earliest expo
 
 ## 🌟 Projects
 
-I’m currently working on my first public game project—stay tuned for updates!
+Play both Unlit and Raniag! on Itch.io page >:D https://franaxus.itch.io/
+
+Currently working on 
+- **OFAF: Fall of Isla Renia**: A part of the "Of Fibs and Farces" Series where every character is represented by a form or medium of Obfuscating the Truth, a Game Deeply rooted in the Psychology of Lying and the behaviors and notions that surround each one  
+
+- **The Last Coffee, For You**: Synopsis on my phone lel, basta you're bidding your farewells for the last time, can you correct dumb decisions, miscommunications etc. before its too late?  
+
 
 ---
 
