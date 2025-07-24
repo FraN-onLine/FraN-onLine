@@ -12,19 +12,21 @@ I forgot the password to this account counter: 22
 
 ---
 
-## About Me
+## The Man, The Myth, THE LEGEND >:D
 
-Fran Online, derived from both my name and the game RAN-ONLINE, my earliest exposure to video game culture.
+Khoi, alias Fran Online is derived from both my name and the game RAN-ONLINE, my earliest exposure to video game culture.  
+A common myth is im a serious ahh, clearly i'm not  
+The Legend is a fish that can be caught during Spring in the Mountain lake during rainy weather. It is one of the five Legendary Fish, so it can only be caught once per save file, or once per player in Multiplayer.  
 
 ---
 
-## 🎮 Games
+## AI added this segment so here's the games i play i guess
 
-- **Minecraft** – for endless creativity
-- **Stardew Valley** – relaxing pixel farming
-- **Genshin Impact** & **Honkai Star Rail** – immersive worlds & stories
-- **Mobile Legends** – fast-paced competition
-- **Pokémon** – catching, training, and battling since childhood!  
+- **Minecraft** – for endless creativity (actually one of my earliest exposure to game dev, /execute @e[type = pig] ~ ~ ~ summon lightning)  
+- **Stardew Valley** – relaxing pixel farming (relaxing? jades, staircase, reach floor 300, monster musk + napalm-burglar = watch the assault)  
+- **Genshin Impact** & **Honkai Star Rail** – immersive worlds & stories (gambling go brrrrrrrrrrrrrrrrrrr)  
+- **Mobile Legends** – fast-paced competition (character lore is as disposable as the fanbase)  
+- **Pokémon** – catching, training, and battling since childhood! (i know all 1025 and counting, fight me)  
   <img src="https://media1.tenor.com/m/t1mocjFgU14AAAAC/pokemon-furret.gif" width="200" alt="Furret Walk" />
 
 ---
@@ -36,7 +38,7 @@ Fran Online, derived from both my name and the game RAN-ONLINE, my earliest expo
 | 🎮 Game Dev       | **Godot Engine**                                                                |
 | 🔤 Coding         | **GDScript**, Python                                                             |
 | 🎨 Art & Design   | **Pixel Art**, Character Concepts, Writing and Storytelling                                |
-| 🧠 Soft Skills    | Problem-Solving, Iterative Prototyping, Always-Learning Attitude 🧪                |
+| 🧠 Soft Skills    | Problem-Solving, Uhh whats a soft skill?                |
 
 ---
 
@@ -62,7 +64,7 @@ it's time to reflect on the life you lived
 
 ## ⚡ Fun Facts
 
-- Huge Pokémon fan (Gen 3 is GOAT!)
+- Huge Pokémon fan (Gen 3 is GOAT!) true lol  
 - Enjoys game jams, pixel art, and experimenting with new mechanics
 - Focused on building games that are both fun and meaningful
 - Always open to feedback, collaboration, and making new friends in the dev community
