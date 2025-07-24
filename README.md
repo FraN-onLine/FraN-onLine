@@ -6,7 +6,7 @@ I forgot the password to this account counter: 22
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenp4NWhybXY0M3FtbGJ1NTlwMG1xM2V3a2RocmV0a2JkN2l5d2p4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ov5NiLVXT8JEc/giphy.gif" width="120" alt="waving fox" />
 
-# 👋 Welcome to FraN-onLine
+# 👋 欢迎 来到 FraN-onLine
 
 </div>
 
@@ -44,7 +44,7 @@ The Legend is a fish that can be caught during Spring in the Mountain lake durin
 
 ## 🌟 Projects
 
-Play both Unlit and Raniag! on Itch.io page >:D https://franaxus.itch.io/
+Play both Unlit (Light-Based Rage Game) and Raniag! (Light-Inspired Game Jam entry) on my Itch.io page >:D https://franaxus.itch.io/
 
 Currently working on 
 - **OFAF: Fall of Isla Renia**: A part of the "Of Fibs and Farces" Series where every character is represented by a form or medium of Obfuscating the Truth, a Game Deeply rooted in the Psychology of Lying and the behaviors and notions that surround each one  
@@ -64,10 +64,7 @@ it's time to reflect on the life you lived
 
 ## ⚡ Fun Facts
 
-- Huge Pokémon fan (Gen 3 is GOAT!) true lol  
-- Enjoys game jams, pixel art, and experimenting with new mechanics
-- Focused on building games that are both fun and meaningful
-- Always open to feedback, collaboration, and making new friends in the dev community
+- I dunno im a very existential person?
 
 ---
 
