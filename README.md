@@ -51,7 +51,11 @@ Currently working on
 
 - **The Last Coffee, For You**: you are 28 days away from dying, and you decided to go around town and reconnect with friends old and new, former partners, people you strayed from due to miscommunication, and various other personalities, in hopes of leaving with no regrets,  
 at the 29th day you get to see how many people stayed with you in the end..  
-it's time to reflect on the life you lived  
+it's time to reflect on the life you lived
+
+- **One for the Dreamer**: You're right, this one is about me ^ ^, sometimes i just gotta make one for the DREAMER who wishes for change, One for the ARCHON who wants to reign low and one for the FOREIGN who yearns to belong...  
+A love letter to old game ideas and to myself, Dreamer, Foreign and Archon are characters that comes from the etymology of my full name (you can look it up if yk my name) and i put it in relation to myself  
+Greet me a Happy 20th Birthday Profile Reader :> (specially if kumokopya kayo ng labs saken)
 
 ---
 
