@@ -53,9 +53,7 @@ Currently working on
 at the 29th day you get to see how many people stayed with you in the end..  
 it's time to reflect on the life you lived
 
-- **One for the Dreamer**: You're right, this one is about me ^ ^, sometimes i just gotta make one for the DREAMER who wishes for change, One for the ARCHON who wants to reign low and one for the FOREIGN who yearns to belong...  
-A love letter to old game ideas and to myself, Dreamer, Foreign and Archon are characters that comes from the etymology of my full name (you can look it up if yk my name) and i put it in relation to myself  
-Greet me a Happy 20th Birthday Profile Reader :> (specially if kumokopya kayo ng labs saken)
+- **While-True:**: everything in this world runs on a loop understand the sequence of events happening around you and "break" it, each stage introduces new anomalies, all you have to do is break the cycle  
 
 ---
 
