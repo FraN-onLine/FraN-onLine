@@ -44,7 +44,7 @@ The Legend is a fish that can be caught during Spring in the Mountain lake durin
 
 ## 🌟 Projects
 
-Play both Unlit (Light-Based Rage Game) and Raniag! (Light-Inspired Game Jam entry) on my Itch.io page >:D https://franaxus.itch.io/
+Play Unlit (Light-Based Rage Game) and Raniag! (Light-Inspired Game Jam entry) and While True:(Puzzle Platformer Coding game) on my Itch.io page >:D https://franaxus.itch.io/
 
 Currently working on 
 - **OFAF: Fall of Isla Renia**: A part of the "Of Fibs and Farces" Series where every character is represented by a form or medium of Obfuscating the Truth, a Game Deeply rooted in the Psychology of Lying and the behaviors and notions that surround each one  
@@ -52,8 +52,6 @@ Currently working on
 - **The Last Coffee, For You**: you are 28 days away from dying, and you decided to go around town and reconnect with friends old and new, former partners, people you strayed from due to miscommunication, and various other personalities, in hopes of leaving with no regrets,  
 at the 29th day you get to see how many people stayed with you in the end..  
 it's time to reflect on the life you lived
-
-- **While-True:**: everything in this world runs on a loop understand the sequence of events happening around you and "break" it, each stage introduces new anomalies, all you have to do is break the cycle  
 
 ---
 
