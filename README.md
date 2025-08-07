@@ -20,13 +20,7 @@ The Legend is a fish that can be caught during Spring in the Mountain lake durin
 
 ---
 
-## AI added this segment so here's the games i play i guess
-
-- **Minecraft** – for endless creativity (actually one of my earliest exposure to game dev, /execute @e[type = pig] ~ ~ ~ summon lightning)  
-- **Stardew Valley** – relaxing pixel farming (relaxing? jades, staircase, reach floor 300, monster musk + napalm-burglar = watch the assault)  
-- **Genshin Impact** & **Honkai Star Rail** – immersive worlds & stories (gambling go brrrrrrrrrrrrrrrrrrr)  
-- **Mobile Legends** – fast-paced competition (character lore is as disposable as the fanbase)  
-- **Pokémon** – catching, training, and battling since childhood! (i know all 1025 and counting, fight me)  
+## Here's Furrett
   <img src="https://media1.tenor.com/m/t1mocjFgU14AAAAC/pokemon-furret.gif" width="200" alt="Furret Walk" />
 
 ---
@@ -52,6 +46,8 @@ Currently working on
 - **The Last Coffee, For You**: you are 28 days away from dying, and you decided to go around town and reconnect with friends old and new, former partners, people you strayed from due to miscommunication, and various other personalities, in hopes of leaving with no regrets,  
 at the 29th day you get to see how many people stayed with you in the end..  
 it's time to reflect on the life you lived
+
+- **Therapy**  
 
 ---
 
