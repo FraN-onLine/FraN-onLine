@@ -1,5 +1,3 @@
-I forgot the password to this account counter: 22  
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20FraN-onLine!&fontSize=40&fontAlignY=35&animation=twinkling" alt="header" />
@@ -41,13 +39,19 @@ The Legend is a fish that can be caught during Spring in the Mountain lake durin
 Play Unlit (Light-Based Rage Game) and Raniag! (Light-Inspired Game Jam entry) and While True:(Puzzle Platformer Coding game) on my Itch.io page >:D https://franaxus.itch.io/
 
 Currently working on 
+
+[Long Term]  
 - **OFAF: Fall of Isla Renia**: A part of the "Of Fibs and Farces" Series where every character is represented by a form or medium of Obfuscating the Truth, a Game Deeply rooted in the Psychology of Lying and the behaviors and notions that surround each one  
 
 - **The Last Coffee, For You**: you are 28 days away from dying, and you decided to go around town and reconnect with friends old and new, former partners, people you strayed from due to miscommunication, and various other personalities, in hopes of leaving with no regrets,  
 at the 29th day you get to see how many people stayed with you in the end..  
 it's time to reflect on the life you lived
 
-- **Therapy**  
+
+[Short Term]
+- **Therapy**
+
+- **Hearthstead** - soafer chill UvU (farming kinda game give or take)
 
 ---
 
