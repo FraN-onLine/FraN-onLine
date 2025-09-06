@@ -49,13 +49,13 @@ it's time to reflect on the life you lived
 
 - **SYNAP** - Rogue like dungeon crawler beatemup, one of my games that wont have a proper narrative but is focused on the game itself
 
+- **Back In Biskits** - Short term turned long term  
+
 
 [Short Term]
 - **Therapy**
 
-- **Hearthstead** - soafer chill UvU (farming kinda game give or take)
-
-- **Back in Biskits** - Cuphead meets Soul Knight - Cookie Boss Rush  
+- **Full Load** - MULTIPLAYER  
 
 ---
 
