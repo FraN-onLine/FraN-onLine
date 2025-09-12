@@ -66,12 +66,6 @@ it's time to reflect on the life you lived
 
 ---
 
-## ⚡ Fun Facts
-
-- I dunno im a very existential person?
-
----
-
 ---
 
 ## 📊 GitHub Stats
