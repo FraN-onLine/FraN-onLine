@@ -1,72 +1,6 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20FraN-onLine!&fontSize=40&fontAlignY=35&animation=twinkling" alt="header" />
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenp4NWhybXY0M3FtbGJ1NTlwMG1xM2V3a2RocmV0a2JkN2l5d2p4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ov5NiLVXT8JEc/giphy.gif" width="120" alt="waving fox" />
-
-# 👋 欢迎 来到 FraN-onLine
-
-</div>
-
----
-
-## The Man, The Myth, THE LEGEND >:D
-
-Khoi, alias Fran Online is derived from both my name and the game RAN-ONLINE, my earliest exposure to video game culture.  
-A common myth is im a serious ahh, clearly i'm not  
-The Legend is a fish that can be caught during Spring in the Mountain lake during rainy weather. It is one of the five Legendary Fish, so it can only be caught once per save file, or once per player in Multiplayer.  
-
----
-
-## Here's Furrett
-  <img src="https://media1.tenor.com/m/t1mocjFgU14AAAAC/pokemon-furret.gif" width="200" alt="Furret Walk" />
-
----
-
-## 🛠️ My Skillset
-
-| Area             | Tools & Languages                                                                 |
-|------------------|-----------------------------------------------------------------------------------|
-| 🎮 Game Dev       | **Godot Engine**                                                                |
-| 🔤 Coding         | **GDScript**, Python                                                             |
-| 🎨 Art & Design   | **Pixel Art**, Character Concepts, Writing and Storytelling                                |
-| 🧠 Soft Skills    | Problem-Solving, Uhh whats a soft skill?                |
-
----
-
-## 🌟 Projects
+Let's keep things simple alright mate, we're not grandiose at this part, just obnoxious, obnoxiously consistent  
 
 Play Unlit (Light-Based Rage Game) and Raniag! (Light-Inspired Game Jam entry) and While True:(Puzzle Platformer Coding game) on my Itch.io page >:D https://franaxus.itch.io/
-
-Currently working on 
-
-[Long Term]  
-- **OFAF: Fall of Isla Renia**: A part of the "Of Fibs and Farces" Series where every character is represented by a form or medium of Obfuscating the Truth, a Game Deeply rooted in the Psychology of Lying and the behaviors and notions that surround each one  
-
-- **The Last Coffee, For You**: you are 28 days away from dying, and you decided to go around town and reconnect with friends old and new, former partners, people you strayed from due to miscommunication, and various other personalities, in hopes of leaving with no regrets,  
-at the 29th day you get to see how many people stayed with you in the end..  
-it's time to reflect on the life you lived
-
-- **SYNAP** - Rogue like dungeon crawler beatemup, one of my games that wont have a proper narrative but is focused on the game itself
-
-- **Back In Biskits** - Short term turned long term  
-
-
-[Short Term]
-- **Therapy**
-
-- **Full Load** - MULTIPLAYER  
-
----
-
-## 💬 Let's Connect
-
-- [GitHub Profile](https://github.com/FraN-onLine)
-<!-- Add itch.io, LinkedIn, or Twitter links here as you grow your portfolio -->
-
----
-
----
 
 ## 📊 GitHub Stats
 
@@ -78,10 +12,3 @@ it's time to reflect on the life you lived
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXByb2p2dWVhN2F3b2x0eXExb2Q2dzhqN2FqZjI2d2R6YjR4cXN4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif" width="150" alt="cat typing" />
-  <br><br>
-  <b>Thanks for visiting! Let's build something awesome together.</b>
-</div>
