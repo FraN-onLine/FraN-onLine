@@ -2,7 +2,6 @@ Let's keep things simple alright mate, we're not grandiose at this part, just ob
 
 Play Unlit (Light-Based Rage Game) and Raniag! (Light-Inspired Game Jam entry) and While True:(Puzzle Platformer Coding game) on my Itch.io page >:D https://franaxus.itch.io/  
 
-:////
 
 ## 📊 GitHub Stats
 
