@@ -11,5 +11,7 @@ Play Unlit (Light-Based Rage Game) and Raniag! (Light-Inspired Game Jam entry) a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FraN-onLine&layout=compact&theme=vue-dark&hide_border=true&title_color=3ddc84)
 
+![](https://komarev.com/ghpvc/?username=FraN-online&style=for-the-badge)
+
 </div>
 
