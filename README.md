@@ -14,3 +14,4 @@ i dunno gang, hmu or whateva if u want more deets atp
 
 </div>
 
+man i am so enamored by this one person, ionno why  
