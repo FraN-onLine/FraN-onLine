@@ -13,5 +13,3 @@ i dunno gang, hmu or whateva if u want more deets atp
 ![](https://komarev.com/ghpvc/?username=FraN-online&style=for-the-badge)
 
 </div>
-
-man i am so enamored by this one person, ionno why  
