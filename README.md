@@ -1,6 +1,6 @@
 Here's my itchr, my games are there https://franaxus.itch.io/  
 just in case99311  5
-25
+2523
 ## 📊 GitHub Stats
 
 <div align="center">
