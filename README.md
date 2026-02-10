@@ -7,4 +7,5 @@ subject to,
 x1 < 0  
 x1 >= 0  
 
-Will to live not found
+Will to live not found  
+itch.io page:  https://franaxus.itch.io/  
