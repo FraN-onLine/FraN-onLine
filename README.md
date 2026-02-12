@@ -14,7 +14,7 @@ x1 >= 0
 🔍 *Will to live not found*
 
 
-## 🎮 Stuff I Make (when the compiler and my brain cooperate)
+# 🎮 Stuff I Make (when the compiler and my brain cooperate)
 
 - 🕹️ **itch.io:** https://franaxus.itch.io/
 - I"M TUNG TUNG TUNG SAHUR AND I LOVE BALLERINA CAPPUCINA  
