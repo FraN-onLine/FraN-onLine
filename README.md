@@ -9,6 +9,8 @@ subject to,
 x1 < 0  
 x1 >= 0  
 
+water fountain  
+
 
 ❌ **No feasible solution found**  
 🔍 *Will to live not found*
