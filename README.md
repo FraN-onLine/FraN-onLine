@@ -14,8 +14,7 @@ water fountain
 
 ❌ **No feasible solution found**  
 🔍 *Will to live not found*
-- 🕹️ **itch.io:** https://franaxus.itch.io/
-- I"M TUNG TUNG TUNG SAHUR AND I LOVE BALLERINA CAPPUCINA  
+- 🕹️ **itch.io:** https://franaxus.itch.io/  
 - Computer Science student / game developer in progress (omg)  
 - Enjoys games, systems, and debugging at ungodly hours  
 - Currently stuck in: `code → break → question life → fix`
