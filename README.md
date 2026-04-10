@@ -1,4 +1,5 @@
 ## I'm losing my coding spark ya'll  
+and no one tells you where you went wrong  
 
 Let x1 = will to live  
 
