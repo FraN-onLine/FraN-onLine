@@ -1,4 +1,4 @@
-# FranOnLine//Khoifee
+# FranOnLine
 **itch.io:** https://franaxus.itch.io/  
 
 # GAME PROJECTS - ITCH
