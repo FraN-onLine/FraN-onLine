@@ -9,5 +9,5 @@
 **BACK IN BISKITS - GAME JAM EDITION:** https://franaxus.itch.io/hello-reader  
 **MOPHEAD:** https://franaxus.itch.io/mophead
 
-# YOUTUEB  
+# YOUTUBE
 Link: https://www.youtube.com/@KhoifeeDev
