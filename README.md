@@ -7,7 +7,8 @@
 **RANIAG POST JAM EDITION:** https://franaxus.itch.io/raniag-v11  
 **WHILE-TRUE:** https://franaxus.itch.io/while-true  
 **BACK IN BISKITS - GAME JAM EDITION:** https://franaxus.itch.io/hello-reader  
-**MOPHEAD:** https://franaxus.itch.io/mophead
+**MOPHEAD:** https://franaxus.itch.io/mophead  
+**PADAYON, LUPANG SINILANGAN:** https://franaxus.itch.io/padayon-lupang-sinilangan-web
 
 # YOUTUBE
 Link: https://www.youtube.com/@KhoifeeDev
