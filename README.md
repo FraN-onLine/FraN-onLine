@@ -8,7 +8,7 @@
 **WHILE-TRUE:** https://franaxus.itch.io/while-true  
 **BACK IN BISKITS - GAME JAM EDITION:** https://franaxus.itch.io/hello-reader  
 **MOPHEAD:** https://franaxus.itch.io/mophead  
-**PADAYON, LUPANG SINILANGAN - GAME JAM EDITION:** https://franaxus.itch.io/padayon-lupang-sinilangan
+**PADAYON, LUPANG SINILANGAN - GAME JAM EDITION:** https://franaxus.itch.io/padayon-lupang-sinilangan  
 **PADAYON, LUPANG SINILANGAN - POST JAM EDITION:** https://franaxus.itch.io/padayon-lupang-sinilangan-web
 
 # YOUTUBE
