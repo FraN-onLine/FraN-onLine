@@ -11,5 +11,8 @@
 **PADAYON, LUPANG SINILANGAN - GAME JAM EDITION:** https://franaxus.itch.io/padayon-lupang-sinilangan  
 **PADAYON, LUPANG SINILANGAN - POST JAM EDITION:** https://franaxus.itch.io/padayon-lupang-sinilangan-web
 
+# GAME PROJECTS - EXECUTABLE:  
+**ADAPTO, MINPARK, BACK IN BISKITS EXECUTABLE:** https://drive.google.com/drive/folders/1mGfFLGxfx2TeBpgjkN6wKo6vUW2fzM7Y?usp=drive_link  
+
 # YOUTUBE
 Link: https://www.youtube.com/@KhoifeeDev
