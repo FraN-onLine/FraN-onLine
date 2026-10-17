@@ -17,11 +17,3 @@ pog guy with an even pogger aura
 **MUNIMUNDUS:**  
 # YOUTUBE
 Link: https://www.youtube.com/@KhoifeeDev
-  
-rawr  
-hayst  
-kokak  
-bleh  
-sadasd  
-wompus  
-look into your eyes and the sky's the limit
