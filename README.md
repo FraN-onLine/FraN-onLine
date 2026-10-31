@@ -8,6 +8,7 @@ pog guy with an even pogger aura
 **RANIAG POST JAM EDITION:** https://franaxus.itch.io/raniag-v11  
 **WHILE-TRUE:** https://franaxus.itch.io/while-true  
 **BACK IN BISKITS - GAME JAM EDITION:** https://franaxus.itch.io/hello-reader  
+**BACK IN BISKITS - POST JAM EDITION:**  
 **MOPHEAD:** https://franaxus.itch.io/mophead  
 **PADAYON, LUPANG SINILANGAN - GAME JAM EDITION:** https://franaxus.itch.io/padayon-lupang-sinilangan-gjed  
 **PADAYON, LUPANG SINILANGAN - POST JAM EDITION:** https://franaxus.itch.io/padayon-lupang-sinilangan
