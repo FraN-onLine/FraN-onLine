@@ -1,7 +1,7 @@
 # FranOnLine
 pog guy with an even pogger aura  
 **itch.io:** https://franaxus.itch.io/  
-**personal site:""  
+**personal site:**  
 
 # GAME PROJECTS - ITCH
 **SYNAP DEMO 2:** https://franaxus.itch.io/state-your-name-and-purpose-demo2  
